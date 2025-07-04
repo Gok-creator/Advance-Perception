@@ -2,7 +2,6 @@
 
 A lightweight Unreal Engine component that attaches a perception target directly to a skeletal bone (e.g. `"head"`), allowing AI to "see" actors from more accurate positions like the head or spine.
 
-Perfect for stealth, sniping, or cinematic AI behavior.
 
 ---
 
